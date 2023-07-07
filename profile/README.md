@@ -2,4 +2,4 @@
 
 🐱Everything about security and neko!🐱
 
-![](../Thumbs_Up_Crying_Cat.jpg)
+![](/Thumbs_Up_Crying_Cat.jpg)
